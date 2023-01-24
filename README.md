@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AJGrey
-- 👀 I’m interested in Big Data 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Analysis projects to build my data competence. 
+- 👀 I’m interested in Tech 
+- 🌱 I’m currently python
+- 💞️ I’m looking to gain skills in Software Engineering in order to start my Tech Journey. 
 - 📫 How to reach me greyajayi@yahoo.com
 
 <!---
